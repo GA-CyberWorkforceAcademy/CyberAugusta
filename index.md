@@ -3,7 +3,7 @@
 |                                   | Link                                  |
 |-----------------------------------|---------------------------------------|
 | Scholarships                      | [Scholarships](Scholarships/index.md) |
-| Internships                       | [Internships](Internships)            |
+| Internships                       | [Internships](Internships/index.md)   |
 | Career Workshop 102/1 August 2020 | Dead link                             |
 |                                   |                                       |
 
